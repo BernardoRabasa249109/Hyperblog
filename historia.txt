@@ -4,7 +4,7 @@ git comit -m "version 1" -> manda los ultimos cambios del archivo a la base de d
 git add . -> agregar todos los archivos
 git status -> En que estado esta el archivo? , si ta se agrego y si ya se le hizo commit
 git show -> todos los cambios historicos
-git log nombrdearchivo.txt -> hotoria entera del archivo
+git log nombrdearchivo.txt -> hitoria entera del archivo
 git push -> enviar a repositorio
 git log-> historia del archivo
 
@@ -28,3 +28,5 @@ git config --list -> ver configuracion de tu git
 git config -> ver configuracion del git
 
 git show -> te muestra los cambios que han existido y en donde en un archivo
+
+git commit - > vacio que pasa? 
