@@ -20,3 +20,8 @@ history -> historial de comandos usados
 
 //------------------
 crear repositorio decir donde esta la carpeta central de mis archivos .git
+
+
+git config --list -> ver configuracion de tu git
+
+git config -> ver configuracion del git
