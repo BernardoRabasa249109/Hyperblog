@@ -2,7 +2,7 @@ git init -> inicia el repositorio
 git add nombredelarchivo.txt -> lo agrega al repositorio solo ese archivo
 git comit -m "version 1" -> manda los ultimos cambios del archivo a la base de datos
 git add . -> agregar todos los archivos
-git status -> cambios
+git status -> En que estado esta el archivo? , si ta se agrego y si ya se le hizo commit
 git show -> todos los cambios historicos
 git log nombrdearchivo.txt -> hotoria entera del archivo
 git push -> enviar a repositorio
