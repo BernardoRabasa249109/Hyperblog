@@ -1,0 +1,22 @@
+git init -> inicia el repositorio
+git add nombredelarchivo.txt -> lo agrega al repositorio tu
+git comit -m "version 1" -> manda los ultimos cambios del archivo a la base de datos
+git add . -> agregar todos los archivos
+git status -> cambios
+git show -> todos los cambios historicos
+git log nombrdearchivo.txt -> hotoria entera del archivo
+git push -> enviar a repositorio
+
+
+Comandos en la terminal.
+
+pwd -> Ver ruta en la que estoy parado
+mkdir proyecto1 -> crear una carpeta
+ls -> mostrar contenido de una carpeta
+cd proyecto1/ -> cd cambiar direccion de carpeta
+touch vacio.txt -> crar un documento dentro de una carpeta
+cat vacio.txt -> leer contenido de un archivo
+history -> historial de comandos usados
+
+//------------------
+crear repositorio decir donde esta la carpeta central de mis archivos .git
