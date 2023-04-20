@@ -29,4 +29,7 @@ git config -> ver configuracion del git
 
 git show -> te muestra los cambios que han existido y en donde en un archivo
 
-git commit - > vacio que pasa? 
+git commit - > vacio que pasa? te manda un mensaje de error y lo tienes que agregar
+para salir esc + shift + z + z
+
+Hoy es jueves
