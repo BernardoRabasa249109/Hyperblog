@@ -33,3 +33,5 @@ git commit - > vacio que pasa? te manda un mensaje de error y lo tienes que agre
 para salir esc + shift + z + z
 
 Hoy es jueves
+
+git diff # commit -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
