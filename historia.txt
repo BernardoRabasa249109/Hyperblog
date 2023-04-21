@@ -47,3 +47,5 @@ master en donde estoy v1 v2 ... v3 commit .. actual
 rama experimental en v3 para un experimento 
 
 merge unir una version con otra
+
+hoy hablaremos de su vida
