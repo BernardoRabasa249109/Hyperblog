@@ -40,7 +40,8 @@ Hoy es jueves
 
 git diff # commit espacio #  del otro commit a comparar  -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
 
-check out los cambios de alguien mas a tu carpeta
+git checkout +numerodelcommit + nombredelarchivo ver los cambios de una version anterior
+git master nombre del archivo
 
 master en donde estoy v1 v2 ... v3 commit .. actual
 
