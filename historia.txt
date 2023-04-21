@@ -18,6 +18,8 @@ cd proyecto1/ -> cd cambiar direccion de carpeta
 touch vacio.txt -> crar un documento dentro de una carpeta
 cat vacio.txt -> leer contenido de un archivo
 history -> historial de comandos usados
+ls -> mostrar archivos de una carpeta
+ls -al -> mostrar todos los archivos incluso los ocultos
 
 //------------------
 crear repositorio decir donde esta la carpeta central de mis archivos .git
@@ -31,6 +33,8 @@ git show -> te muestra los cambios que han existido y en donde en un archivo
 
 git commit - > vacio que pasa? te manda un mensaje de error y lo tienes que agregar
 para salir esc + shift + z + z
+
+git diff -> ver los cambios
 
 Hoy es jueves
 
