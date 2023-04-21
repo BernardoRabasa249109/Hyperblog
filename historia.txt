@@ -39,7 +39,7 @@ git diff -> ver los cambios
 Hoy es jueves
 
 git diff # commit espacio #  del otro commit a comparar  -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
-
+git log --stat -> ver los cambios en los archivos
 git checkout +numerodelcommit + nombredelarchivo ver los cambios de una version anterior
 git master nombre del archivo
 
@@ -50,3 +50,5 @@ rama experimental en v3 para un experimento
 merge unir una version con otra
 
 hoy hablaremos de su vida y obra maestra
+
+manterner ese cambio ->
