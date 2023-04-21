@@ -34,4 +34,5 @@ para salir esc + shift + z + z
 
 Hoy es jueves
 
-git diff # commit -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
+git diff # commit espacio #  del otro commit a comparar  -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
+
