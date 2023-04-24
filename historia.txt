@@ -7,6 +7,7 @@ git show -> todos los cambios historicos
 git log nombrdearchivo.txt -> hitoria entera del archivo
 git push -> enviar a repositorio
 git log-> historia del archivo
+git commit -am "Texto" -> git add de los cambios solo funciona con los archivos que les hicimos add previamente
 
 
 Comandos en la terminal.
@@ -41,6 +42,8 @@ Hoy es jueves
 git diff # commit espacio #  del otro commit a comparar  -> diferencias entre un cambio de un archivo y otro usando el numero junto al commit de cada archivo
 git log --stat -> ver los cambios en los archivos
 git checkout +numerodelcommit + nombredelarchivo ver los cambios de una version anterior
+git fetch -> cuando estoy conectado a un repositorio remoto ya lo clone pero alguine le hizo un cambio traer esos cambios
+git merge unir esos archivos con la actualizacion
 git master nombre del archivo
 
 master en donde estoy v1 v2 ... v3 commit .. actual
@@ -52,3 +55,7 @@ merge unir una version con otra
 hoy hablaremos de su vida y obra maestra
 
 manterner ese cambio ->
+
+git log --stat ->ver que cambios se hicieron a nivel interno "Q" para salir
+
+
